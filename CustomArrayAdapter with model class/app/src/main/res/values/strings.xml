@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CustomArrayAdapter</string>
+
+    <string name="singer_1">Luis Fronsi</string>
+    <string name="singer_2">Celin Dion</string>
+    <string name="singer_3">Sia</string>
+    <string name="singer_4">Ed Sheeran</string>
+
+    <string name="song_1">Despacito</string>
+    <string name="song_2">Every Night in my dream</string>
+    <string name="song_3">Cheap Thrills</string>
+    <string name="song_4">Shape of you</string>
+
+</resources>
